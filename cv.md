@@ -1,10 +1,12 @@
 # Daniil Rizatdinov
 
 ## Contacts
-Telegram @rizatdinou
+Telegram: **@rizatdinou**
 
 ## Aims
-Learn JS
+I want to learn JS
 
-##About me
+## About me
 Product designer 3 years exp.
+
+[My projects](https://www.behance.net/rizatdinou)

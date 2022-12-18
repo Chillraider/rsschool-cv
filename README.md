@@ -1,2 +1,2 @@
 # rsschool-cv
-сurriculum vitae
+https://chillraider.github.io/rsschool-cv/cv

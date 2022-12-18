@@ -1,3 +1,7 @@
 # Daniil Rizatdinov
 
-##Contacts
+## Contacts
+Telegram @rizatdinou
+
+## Aims
+Learn JS
